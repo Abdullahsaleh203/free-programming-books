@@ -4,6 +4,7 @@
 * [Assembly Language](#assembly-language)
 * [AWK](#awk)
 * [C](#c)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Docker](#docker)
 * [Elastic](#elastic)
@@ -17,6 +18,7 @@
     * [Webpack](#webpack)
 * [LaTeX](#latex)
 * [Linux](#linux)
+* [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
 * [OpenStack](#openstack)
 * [Operation System](#operation-system)
@@ -25,6 +27,7 @@
     * [Laravel](#laravel)
 * [Python](#python)
     * [Django](#django)
+    * [FastAPI](#fastapi)
     * [Flask](#flask)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
@@ -56,8 +59,16 @@
 
 ### C
 
+* [모두의 C언어](https://thebook.io/006989/) - 이형우
 * [씹어먹는 C](https://github.com/kev0960/ModooCode/raw/master/book/c/main.pdf) - 이재범 (PDF)
+* [코딩 자율학습 나도코딩의 C 언어 입문](https://thebook.io/007139/) - 나도코딩
 * [BeeJ's Guide to Network Programming - 인터넷 소켓 활용](https://blogofscience.com/Socket_Programming-KLDP.html)
+* [C 프로그래밍: 현대적 접근](https://wikidocs.net/book/2494) - K.N.King, `trl.:` 주민하
+
+
+### <a id="csharp"></a>C#
+
+* [C# 교과서](https://thebook.io/006890/) - 박용준
 
 
 ### <a id="cpp"></a>C++
@@ -133,6 +144,11 @@
 * [GNOME 배우기](https://sites.google.com/site/gnomekr/home/learning_gnome)
 
 
+### Machine Learning
+
+[Pytorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788) - 유원준, 상준
+
+
 ### Mathematics
 
 * [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF)
@@ -174,6 +190,7 @@
 * [실용 파이썬 프로그래밍: 프로그래밍 유경험자를 위한 강좌](https://wikidocs.net/book/4673) - 최용
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
+* [좌충우돌, 파이썬으로 자료구조 구현하기](https://wikidocs.net/book/9059) - 심명수
 * [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
 * [파이썬 라이브러리](https://wikidocs.net/book/5445) - 박응용
 * [파이썬 코딩 도장](https://pyrasis.com/python.html) - 남재윤
@@ -188,6 +205,11 @@
 
 * [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) *(:construction: in process)*
 * [점프 투 장고](https://wikidocs.net/book/4223) - 박응용
+
+
+#### FastAPI
+
+* [점프 투 FastAPI](https://wikidocs.net/book/8531) - 박응용
 
 
 #### Flask
@@ -236,6 +258,7 @@
 
 ### Springboot
 
+* [점프 투 스프링부트](https://wikidocs.net/book/7601) - 박응용
 * [Springboot 2.X 정리](https://djunnni.gitbook.io/springboot) - 이동준
 
 

@@ -66,6 +66,7 @@
 
 ### C
 
+* [C-HowTo: Programmieren lernen mit der Programmiersprache C](https://www.c-howto.de) - Elias Fischer (HTML)
 * [C-Programmierung](https://de.wikibooks.org/wiki/C-Programmierung) - Wikibooks (HTML)
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z) - Jürgen Wolf (Online)
 * [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
@@ -119,6 +120,7 @@
 ### HTML and CSS
 
 * [CSS](http://www.peterkropff.de/site/css/css.htm) - Peter Kropff (Grundlagen, OOP, MySQLi, PDO) (Online, PDF)
+* [Das kleine Buch der HTML-/CSS-Frameworks](https://github.com/frontenddogma/html-css-frameworks) – Jens Oliver Meiert
 * [HTML](http://www.peterkropff.de/site/html/html.htm) - Peter Kropff (Online, PDF)
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) (Online)
 * [Self HTML](https://wiki.selfhtml.org/wiki/Startseite) (Online)
